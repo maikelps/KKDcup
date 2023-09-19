@@ -1,6 +1,6 @@
 # KKD Cup 2014
 
-This is a project created as a requirement to analyze the data from the Kaggle competition [KKD Cup 2014](https://www.kaggle.com/competitions/kdd-cup-2014-predicting-excitement-at-donors-choose/overview).
+This is a project created as a requirement to analyse the data from the Kaggle competition [KKD Cup 2014](https://www.kaggle.com/competitions/kdd-cup-2014-predicting-excitement-at-donors-choose/overview).
 
 The repository is structured as:
 
